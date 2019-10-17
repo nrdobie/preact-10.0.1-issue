@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "esNext",
+    "esModuleInterop": true,
+    "target": "es2018",
+    "jsx": "react",
+    "jsxFactory": "h"
+  }
+}
